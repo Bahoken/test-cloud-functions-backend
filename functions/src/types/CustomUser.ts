@@ -4,6 +4,7 @@ export interface CustomUser {
     country: string;
     city: string;
     phone: string;
+    status: boolean;
     role: string;
     userId: string;
 }
